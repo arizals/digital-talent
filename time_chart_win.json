@@ -1,0 +1,424 @@
+{
+  "axes": [
+    {
+      "scale": "x",
+      "title": "Time",
+      "type": "x"
+    },
+    {
+      "scale": "y",
+      "title": "Freq",
+      "type": "y"
+    }
+  ],
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {
+          "col": "data",
+          "idx": 1565687160000,
+          "val": 3
+        },
+        {
+          "col": "data",
+          "idx": 1565687220000,
+          "val": 6
+        },
+        {
+          "col": "data",
+          "idx": 1565687280000,
+          "val": 6
+        },
+        {
+          "col": "data",
+          "idx": 1565687340000,
+          "val": 4
+        },
+        {
+          "col": "data",
+          "idx": 1565687400000,
+          "val": 4
+        },
+        {
+          "col": "data",
+          "idx": 1565687460000,
+          "val": 8
+        },
+        {
+          "col": "data",
+          "idx": 1565687520000,
+          "val": 5
+        },
+        {
+          "col": "data",
+          "idx": 1565687580000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565687640000,
+          "val": 3
+        },
+        {
+          "col": "data",
+          "idx": 1565687700000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565687760000,
+          "val": 4
+        },
+        {
+          "col": "data",
+          "idx": 1565687820000,
+          "val": 3
+        },
+        {
+          "col": "data",
+          "idx": 1565687880000,
+          "val": 4
+        },
+        {
+          "col": "data",
+          "idx": 1565687940000,
+          "val": 6
+        },
+        {
+          "col": "data",
+          "idx": 1565688000000,
+          "val": 2
+        },
+        {
+          "col": "data",
+          "idx": 1565688060000,
+          "val": 8
+        },
+        {
+          "col": "data",
+          "idx": 1565688120000,
+          "val": 8
+        },
+        {
+          "col": "data",
+          "idx": 1565688180000,
+          "val": 9
+        },
+        {
+          "col": "data",
+          "idx": 1565688240000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1565688300000,
+          "val": 4
+        },
+        {
+          "col": "data",
+          "idx": 1565688360000,
+          "val": 4
+        },
+        {
+          "col": "data",
+          "idx": 1565688420000,
+          "val": 5
+        },
+        {
+          "col": "data",
+          "idx": 1565688480000,
+          "val": 3
+        },
+        {
+          "col": "data",
+          "idx": 1565688540000,
+          "val": 3
+        },
+        {
+          "col": "data",
+          "idx": 1565688600000,
+          "val": 6
+        },
+        {
+          "col": "data",
+          "idx": 1565688660000,
+          "val": 2
+        },
+        {
+          "col": "data",
+          "idx": 1565688720000,
+          "val": 9
+        },
+        {
+          "col": "data",
+          "idx": 1565688780000,
+          "val": 6
+        },
+        {
+          "col": "data",
+          "idx": 1565688840000,
+          "val": 6
+        },
+        {
+          "col": "data",
+          "idx": 1565688900000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565688960000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565689020000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565689080000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565689140000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565689200000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565689260000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565689320000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565689380000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565689440000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565689500000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565689560000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565689620000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565689680000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565689740000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565689800000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565689860000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565689920000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565689980000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565690040000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565690100000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565690160000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565690220000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565690280000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565690340000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565690400000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565690460000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565690520000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565690580000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565690640000,
+          "val": 1
+        },
+        {
+          "col": "data",
+          "idx": 1565690700000,
+          "val": 0
+        },
+        {
+          "col": "data",
+          "idx": 1565690760000,
+          "val": 5
+        },
+        {
+          "col": "data",
+          "idx": 1565690820000,
+          "val": 4
+        },
+        {
+          "col": "data",
+          "idx": 1565690880000,
+          "val": 2
+        },
+        {
+          "col": "data",
+          "idx": 1565690940000,
+          "val": 6
+        },
+        {
+          "col": "data",
+          "idx": 1565691000000,
+          "val": 6
+        },
+        {
+          "col": "data",
+          "idx": 1565691060000,
+          "val": 3
+        }
+      ]
+    }
+  ],
+  "height": 500,
+  "legends": [],
+  "marks": [
+    {
+      "from": {
+        "data": "table",
+        "transform": [
+          {
+            "keys": [
+              "data.col"
+            ],
+            "type": "facet"
+          }
+        ]
+      },
+      "marks": [
+        {
+          "properties": {
+            "enter": {
+              "stroke": {
+                "field": "data.col",
+                "scale": "color"
+              },
+              "strokeWidth": {
+                "value": 2
+              },
+              "x": {
+                "field": "data.idx",
+                "scale": "x"
+              },
+              "y": {
+                "field": "data.val",
+                "scale": "y"
+              }
+            }
+          },
+          "type": "line"
+        }
+      ],
+      "type": "group"
+    }
+  ],
+  "padding": "auto",
+  "scales": [
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.idx"
+      },
+      "name": "x",
+      "range": "width",
+      "type": "time"
+    },
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.val"
+      },
+      "name": "y",
+      "nice": true,
+      "range": "height"
+    },
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.col"
+      },
+      "name": "color",
+      "range": "category20",
+      "type": "ordinal"
+    }
+  ],
+  "width": 960
+}
